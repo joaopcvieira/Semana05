@@ -1,0 +1,53 @@
+.box {
+  border: 3px solid;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+  height: 270px;
+  background-color: rgb(74, 59, 158);
+  padding: 25px 25px;
+  font-size: 20px;
+}
+
+.box label {
+  font-size: 15px;
+}
+
+.box input {
+  border-radius: 5px;
+  border: black;
+  width: 80%;
+  height: 1.3rem;
+}
+
+.box .clicks {
+  /* padding: 15px; */
+  margin: 15px;
+}
+
+.box a {
+  margin-left: 30px;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 50px;
+}
+
+.titulo {
+  background-color: rgb(74, 59, 158);
+  justify-content: center;
+  border-radius: 5px;
+  border: 3px solid;
+  /* height: 1.4rem; */
+  /* padding-top: 100px; */
+  overflow: hidden;
+  display: flex;
+  margin: 1vh 550px;
+}

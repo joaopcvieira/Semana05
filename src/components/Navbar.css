@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+
+    background-color: rgb(74,59,158);
+    padding: 15px;
+    border-radius: 10px;
+    align-items: center;
+    margin: 20px;
+  
+}
+
+.navbar a {
+    color: white;
+    border: #ccc solid 2px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    text-decoration: none;
+}
