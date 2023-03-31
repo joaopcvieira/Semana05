@@ -1,0 +1,12 @@
+Constatações
+
+1. O arquivo App.js não eh um arquivo de "views" ele eh um arquivo de configuração do React Native.
+De fato ele afeta as views, mas por conta disso ele fica fora da pasta
+
+2. O aquivo App.css geralmente funciona para zerar o css padrão das páginas
+
+3. O arquivo "Content.jsx" que serve pra redirecionar os links, geralmente é chamado de "routes.jsx" e fica localizado na raiz ou em uma pasta chamada "routes".
+
+4. Gostei das tuas divisões de pastas. Acho que é uma boa prática. Geralemnte a pasta "assets" a gnt chama de public, mas é a mesma coisa.
+
+5. Crítica pessoal: Usar o Git de google drive eh um erro crasso! 
